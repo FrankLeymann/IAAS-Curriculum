@@ -1,2 +1,2 @@
 # IAAS-Curriculum
-This is description of the IAAS Curriculum
+This is a description of the IAAS Curriculum.

@@ -54,3 +54,8 @@ The notion of an *architect* as well as *architecture* of application systems is
 
 The notion of *enterprise application* is introduced. Based on this the need for *loose coupling* is derived and its realization via *reliable messaging* sketched. *Message-oriented middleware* (MOM)and a sample *MOM architecture* is discussed in detail, and *JMS* as a supporting standard API is presented. Next, *basic integration styles* are outlined and a survey of the *enterprise integration pattern* language is given. This language is then discussed in depth: *messaging*, messaging *endpoints*, message *channels*, message *construction*, message *routing*, message *transformation*, message *management*. The concept of a *message bus* is sketched. 
 
+### <a name="SoC"></a> Service Computing
+
+The Web is presented as a *platfrom for applications*, and related trends like the Semantic Web, Cloud Computing, or Autonomic Computing are overviewed. The notion of a *service* and *service computing* is introduced. Some Web-based user interface technologies are briefly sketched. *HTTP* is discussed in detail. Based on that, *REST* is introduced and a design method for REST-based interfaces is presented. An overview on e-*mail* related protocols is given. *SOAP*, *WSDL* and *Policy* are introduced extensively, service *discovery* is touched. *Axis* is briefly sketched. *Agreement protocols* and *coordination* are discussed in depth. Finally, the overall architecture of a *service bus* is portrayed, ongoing discussions like *microservices*, *big vs small Web Services* are commented on. 
+
+

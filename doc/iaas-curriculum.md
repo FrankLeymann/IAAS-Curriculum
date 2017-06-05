@@ -39,3 +39,14 @@ The following figure shows the courses provided by IAAS. The layering of the cou
 ![IAAS Courses](https://github.com/FrankLeymann/IAAS-Curriculum/blob/master/figures/Curriculum-Full.png "IAAS Courses") 
 
 Dashed lines mean that these courses are not mandatory to any of the course clusters below. Nevertheless, they should be considered to complete the understanding of the overall subject area of IAAS. 
+
+The following is a sketch of all courses from bottom (i.e. basic courses) to the top (i.e. more specialized courses).
+
+### <a name="Modeling"></a> Modeling
+
+*Conceptual data modeling* as well as *logical data modeling* is covered. Conceptual data modeling is introduced via of the *Entity-Relationship model*, logical data modeling by explaining the *relational mode*l of data. The latter includes *SQL* and *normalization theory*. *Transformations* from entity-relationship models as well as *XML schema* is discussed. Next, *UML* diagrams for modeling the static as well as the dynamic aspects of software systems is presented. The concept of *metamodeling* is discussed and *ontology modeling* is sketched. *Petri nets* and their analysis is covered, and *BPMN* for specifying process models is introduced. 
+
+### <a name="GAAS"></a> Archtitecture of Enterprise Applications
+
+The notion of an *architect* as well as *architecture* of application systems is discussed. Based on this, the *architectural diagrams* and architecture description languages (*ADLs*) are introduced, and different *architectural styles* are discussed. *Model-driven engineering* of software is motivated. *Non-functional properties* are introduced and related to architectural modeling. *Transactions* are covered by discussing the ACID paradigm, concurrency control, and advanced transaction models. Synchonous as well as asynchronous communication is discussed along with *RPC* middleware and *message queuing* middleware. The concept of *APIs* is introduced. Based on the before, *TP monitors* as well as *application servers* are presented. A detailed discussion of *high availability*, *scalability*, *stability*, and *consistency* follows. *Pattern languages* are introduced, and first sketch of *patterns of enterprise applications* as well *cloud computing patterns* is given. 
+

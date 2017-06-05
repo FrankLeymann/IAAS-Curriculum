@@ -36,6 +36,6 @@ This whole spectrum of topics is reflected in both, the research projects as wel
 
 The following figure shows the courses provided by IAAS. The layering of the courses from bottom to top is a first indicator of the sequence the courses should be taken - more details below.
 
-![IAAS Courses](https://github.com/FrankLeymann/IAAS-Curriculum/blob/master/figures/Curriculum-Full.png) 
+![IAAS Courses](https://github.com/FrankLeymann/IAAS-Curriculum/blob/master/figures/Curriculum-Full.png "IAAS Courses") 
 
 Dashed lines mean that these courses are not mandatory to any of the course clusters below. Nevertheless, they should be considered to complete the understanding of the overall subject area of IAAS. 

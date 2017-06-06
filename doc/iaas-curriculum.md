@@ -2,7 +2,9 @@
 
 In the following the different courses provided by the Institute of Architecture of Application Systems ([IAAS](http://www.iaas.uni-stuttgart.de/institut/mitarbeiter/indexE.php)) are discussed. Several clusters of courses emphasizing different foci are recommended.
 
-## Subject Areas of IAAS Research and Teaching
+These courses are motivated by the charter of IAAS that is sketched next.
+
+## Charter of IAAS
 
 The term *application system* is a piece of software supporting one or more core business activities of an enterprise. Typically, such a system 
 

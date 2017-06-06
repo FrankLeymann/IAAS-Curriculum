@@ -90,4 +90,27 @@ Hands-on projects are performed in teams and are oriented on actual research pro
 ## <a name="Clusters"></a> Course Clusters
 
 
-![IAAS Courses](https://github.com/FrankLeymann/IAAS-Curriculum/blob/master/figures/Integration Cluster.png) 
+
+
+
+![IAAS Courses](https://github.com/FrankLeymann/IAAS-Curriculum/blob/master/figures/Integration-Cluster.png) 
+
+
+
+![IAAS Courses](https://github.com/FrankLeymann/IAAS-Curriculum/blob/master/figures/Cloud-Cluster.png) 
+
+
+
+![IAAS Courses](https://github.com/FrankLeymann/IAAS-Curriculum/blob/master/figures/BPM-Cluster.png) 
+
+
+
+![IAAS Courses](https://github.com/FrankLeymann/IAAS-Curriculum/blob/master/figures/System-Architect-Cluster.png) 
+
+
+
+
+
+![IAAS Courses](https://github.com/FrankLeymann/IAAS-Curriculum/blob/master/figures/Enterprise-Architect-Cluster.png) 
+
+

@@ -109,10 +109,17 @@ This cluster may be extended by attending the [practical course](#pract) on SOA,
 
 ### <a name="CloudCl"></a> Cloud Cluster
 
+This cluster provides *distributed application architecture skills*; it consists of the following lectures, ideally to be taken in the order indicated by the arrows in the figure:
 
+* [Architecture of Enterprise Applications](#GAAS)
+* [Loose-coupling and Message-based Applications](#LCM)
+* [Cloud Computing](#Cloud)
+
+After attending these lectures, the major concepts and technologies behind large-scale distributed applications like non-functional properties, loose-coupling, architectural styles, relevant patterns as well as cloud architectural concers and cloud platforms a are understood. 
+
+This cluster may be extended by attending the [practical course](#pract) on Cloud, which will add practical experiences to the acquired skill set. 
 
 ![IAAS Courses](https://github.com/FrankLeymann/IAAS-Curriculum/blob/master/figures/Cloud-Cluster.png) 
-
 
 
 ### <a name="BPMCl"></a> BPM Cluster

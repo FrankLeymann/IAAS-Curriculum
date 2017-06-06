@@ -146,7 +146,7 @@ This cluster provides *system architecure skills*; it consists of the following 
 * [Loose-coupling and Message-based Applications](#LCM)
 * [Cloud Computing](#Cloud)
 
-After attending these lectures, the systemic aspects and technical underpinnings of application systems are understood. The includes architectural diagrams and styles, the impact of middleware on non-functional properties, the role of services (both, WSDL/SOAP style and REST style), loose-coupling and application integration, large-scale effects (like CAP), architectural patterns (for hihg-availability, stability etc), as well as the proper use of cloud technologies for suitable architectures of application systems. 
+After attending these lectures, the systemic aspects and technical underpinnings of application systems are understood. The includes architectural diagrams and styles, the impact of middleware on non-functional properties, the role of services (both, WSDL/SOAP style and REST style), loose-coupling and application integration, large-scale effects (like CAP), architectural patterns (for high-availability, stability etc), as well as the proper use of cloud technologies for suitable architectures of application systems. 
 
 ![IAAS Courses](https://github.com/FrankLeymann/IAAS-Curriculum/blob/master/figures/System-Architect-Cluster.png) 
 

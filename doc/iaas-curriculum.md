@@ -124,7 +124,15 @@ This cluster may be extended by attending the [practical course](#pract) on Clou
 
 ### <a name="BPMCl"></a> BPM Cluster
 
+This cluster provides *business process skills*; it consists of the following lectures, ideally to be taken in the order indicated by the arrows in the figure:
 
+* [Service Computing](#SoC)
+* [Business Process Management (BPM)](#BPM)
+* [Advanced Business Process Management](#aBPM)
+
+After attending these lectures, the major concepts and technologies relevent to manage business processes along their complete lifecycle are understood. This includes services as well as service composition, proper process modeling - including exception handling, subprocesses, choreographies -, process analysis, human tasks, workflow management systems, and process formalisms. 
+
+This cluster may be extended by attending the [practical course](#pract) on SOA, REST, and BPM, which will add practical experiences to the acquired skill set. 
 
 ![IAAS Courses](https://github.com/FrankLeymann/IAAS-Curriculum/blob/master/figures/BPM-Cluster.png) 
 

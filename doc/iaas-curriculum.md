@@ -94,6 +94,15 @@ The following sketches clusters of courses that fit together under a common them
 
 ### <a name="IntCl"></a> Integration Cluster
 
+This cluster provides *integration skills*; it consists of the following lectures:
+
+* [Loose-coupling and Message-based Applications](#LCM)
+* [Service Computing](#SoC)
+* [Business Process Management (BPM)](#BPM)
+
+After attending these lectures, the major technologies to integrate systems, platforms, applications, and organizational units are understood. 
+
+This cluster may be extended by attending the [practical course](#Pract) on SOA, REST, and BPM, which will add practical experiences to the acquired skill set. 
 
 ![IAAS Courses](https://github.com/FrankLeymann/IAAS-Curriculum/blob/master/figures/Integration-Cluster.png) 
 

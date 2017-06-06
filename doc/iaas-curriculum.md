@@ -33,11 +33,12 @@ Finally, several application domains are of high interest at IAAS like *simulati
 
 This whole spectrum of topics is reflected in both, the research projects as well as the various courses of the IAAS. 
 
+
 ## <a name="Spectrum"></a> The Course Spectrum
 
-The following figure shows the courses provided by IAAS. The layering of the courses from bottom to top is a first indicator of the sequence the courses should be taken - more details below.
+The following figure shows the courses provided by IAAS. The layering of the courses from bottom to top is a first indicator of the sequence the courses should be taken - more details below. 
 
-![IAAS Courses](https://github.com/FrankLeymann/IAAS-Curriculum/blob/master/figures/Curriculum-Full.png "IAAS Courses") 
+![IAAS Courses](https://github.com/FrankLeymann/IAAS-Curriculum/blob/master/figures/Curriculum-Full.png) 
 
 Dashed lines mean that these courses are not mandatory to any of the course clusters below. Nevertheless, they should be considered to complete the understanding of the overall subject area of IAAS. 
 
@@ -94,7 +95,7 @@ The following sketches clusters of courses that fit together under a common them
 
 ### <a name="IntCl"></a> Integration Cluster
 
-This cluster provides *integration skills*; it consists of the following lectures:
+This cluster provides *integration skills*; it consists of the following lectures, ideally to be taken in the order indicated by the arrows in the figure:
 
 * [Loose-coupling and Message-based Applications](#LCM)
 * [Service Computing](#SoC)
@@ -139,23 +140,27 @@ This cluster may be extended by attending the [practical course](#pract) on SOA,
 
 ### <a name="SACl"></a> Systems Architect Cluster
 
-This cluster provides *system architecure skills*; it consists of the following lectures, ideally to be taken in the order indicated by the arrows in the figure:
+This cluster provides *system architecture skills*; it consists of the following lectures, ideally to be taken in the order indicated by the arrows in the figure:
 
 * [Architecture of Enterprise Applications](#GAAS)
 * [Service Computing](#SoC)
 * [Loose-coupling and Message-based Applications](#LCM)
 * [Cloud Computing](#Cloud)
 
-After attending these lectures, the systemic aspects and technical underpinnings of application systems are understood. The includes architectural diagrams and styles, the impact of middleware on non-functional properties, the role of services (both, WSDL/SOAP style and REST style), loose-coupling and application integration, large-scale effects (like CAP), architectural patterns (for high-availability, stability etc), as well as the proper use of cloud technologies for suitable architectures of application systems. 
+After attending these lectures, the systemic aspects and technical underpinnings of application systems are understood. This includes architectural diagrams and styles, the impact of middleware on non-functional properties, the role of services (both, WSDL/SOAP style and REST style), loose-coupling and application integration, large-scale effects (like CAP), architectural patterns (for high-availability, stability etc), as well as the proper use of cloud technologies for suitable architectures of application systems. 
 
 ![IAAS Courses](https://github.com/FrankLeymann/IAAS-Curriculum/blob/master/figures/System-Architect-Cluster.png) 
 
 
-
 ### <a name="EACl"></a> Enterprise Architect Cluster
 
+This cluster provides *enterprise architecture skills*; it consists of the following lectures, ideally to be taken in the order indicated by the arrows in the figure:
 
+* [Architecture of Enterprise Applications](#GAAS)
+* [Business Process Management (BPM)](#BPM)
+* [Advanced Business Process Management](#aBPM)
+* [IT Strategy](#ITS)
+
+After attending these lectures, the business aspects and technical underpinnings of application systems are understood. This includes the role of a software architect in an enterprise, architectural diagrams, the importance of non-functional properties for an enterprise, how business processes are supported by application systems, compliance aspects, and developing IT strategies as well as methods used for the latter. 
 
 ![IAAS Courses](https://github.com/FrankLeymann/IAAS-Curriculum/blob/master/figures/Enterprise-Architect-Cluster.png) 
-
-

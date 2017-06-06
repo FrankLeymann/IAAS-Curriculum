@@ -1,6 +1,6 @@
 # IAAS Curriculum
 
-In the following the different courses provided by the Institute of Architecture of Application Systems ([IAAS](http://www.iaas.uni-stuttgart.de/institut/mitarbeiter/indexE.php)) are discussed. Several clusters of courses emphasizing different foci are recommended.
+In the following charter and the courses provided by the Institute of Architecture of Application Systems ([IAAS](http://www.iaas.uni-stuttgart.de/institut/mitarbeiter/indexE.php)) are discussed. The list of individual courses is presented [list of individual courses](#Spectrum) is discussed, and [several clusters of courses](#Clusters) emphasizing different foci are recommended.
 
 These courses are motivated by the charter of IAAS that is sketched next.
 
@@ -33,8 +33,7 @@ Finally, several application domains are of high interest at IAAS like *simulati
 
 This whole spectrum of topics is reflected in both, the research projects as well as the various courses of the IAAS. 
 
-
-## The Course Spectrum
+## <a name="Spectrum"></a> The Course Spectrum
 
 The following figure shows the courses provided by IAAS. The layering of the courses from bottom to top is a first indicator of the sequence the courses should be taken - more details below.
 
@@ -87,6 +86,8 @@ This course is given as a collection of presentations by industry practitioners 
 ### <a name="Proj"></a> Hands-On Projects
 
 Hands-on projects are performed in teams and are oriented on actual research projects of the institute. Thus, state-of-the-art technology will be used to contribute to solutions of concrete research problems. Participant in such projects work at the forefront of technology. 
+
+## <a name="Clusters"></a> Course Clusters
 
 
 

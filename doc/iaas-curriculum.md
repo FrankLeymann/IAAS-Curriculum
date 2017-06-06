@@ -102,7 +102,7 @@ This cluster provides *integration skills*; it consists of the following lecture
 
 After attending these lectures, the major technologies to integrate systems, platforms, applications, and organizational units are understood. 
 
-This cluster may be extended by attending the [practical course](#Pract) on SOA, REST, and BPM, which will add practical experiences to the acquired skill set. 
+This cluster may be extended by attending the [practical course](#pract) on SOA, REST, and BPM, which will add practical experiences to the acquired skill set. 
 
 ![IAAS Courses](https://github.com/FrankLeymann/IAAS-Curriculum/blob/master/figures/Integration-Cluster.png) 
 

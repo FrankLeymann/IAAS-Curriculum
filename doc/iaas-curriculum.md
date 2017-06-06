@@ -66,6 +66,9 @@ An overview on the *evolution* of business process management technology begins 
 
 The concept of *subprocesses* and corresponding *coordination* technology is introduced. *Human Tasks* and *human oriented processes* as well as corresponding middleware is discussed in detail. Advanced modeling paradigms like *pi-calculus* as well as *workflow patterns* are presented. Requirements and problems of *adaptive workflows* are discussed, and an overview on *case handling* including *CMMN* is given. The role of business process technology in *outsourcing* and especially *choreographies* are introducewd. *Process compliance* is covered, and the role of *process mining* including its algorithmic aspects is revealed. 
 
+### <a name="Cloud"></a> Cloud Computing 
+
+A description of *Cloud Service- and Deployment Models* begins the lecture. Next, *virtualization* as well as *containerization* is presented. The realization of *scalability* as well as *elasticity* in cloud environments is revealed. *Architectural aspects* of cloud applications, i.e. *cloud native* and *cloud immigrant* is discussed. *Provisioning* paradigms and technology is presented in detail. Several cloud offerings, like *Amazon Web Services* or *Cloud Foundry* are sketched. The *cloud computing pattern language* is presented, the individual patterns of which are intervowen with the presentation of the concepts and technologies of the lecture.  
 
 
 

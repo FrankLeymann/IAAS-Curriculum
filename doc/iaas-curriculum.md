@@ -70,5 +70,21 @@ The concept of *subprocesses* and corresponding *coordination* technology is int
 
 A description of *Cloud Service- and Deployment Models* begins the lecture. Next, *virtualization* as well as *containerization* is presented. The realization of *scalability* as well as *elasticity* in cloud environments is revealed. *Architectural aspects* of cloud applications, i.e. *cloud native* and *cloud immigrant* is discussed. *Provisioning* paradigms and technology is presented in detail. Several cloud offerings, like *Amazon Web Services* or *Cloud Foundry* are sketched. The *cloud computing pattern language* is presented, the individual patterns of which are intervowen with the presentation of the concepts and technologies of the lecture.  
 
+### <a name="pract"></a> Practical Courses
+
+The practical courses are *lab courses* with hands-on concrete technology. *Programming assignments* are given that have to be worked on and solved by the students. The *Cloud* practical course is focussing on cloud technology, the *REST, SOA, BPM* practical course on exactly those. 
+
+### <a name="ITS"></a> IT Strategy
+
+(The course is given in German.) After clarifying the term "strategy", *enterprise strategy* and *IT strategy* are introduced. A corresponding *processing model* for developing such strategies is presented and explained based on concrete *use cases*. The relation to *ITIL* and *CoBIT* is revealed. Individual processes for *organization development*, *IT sourcing*, *architecture management*, *quality management*, *risk management*, *IT development plan* are discussed in detail. Corresponding *tools* will be presented. A sketch on *IT portfolio management* and *IT metrics* complete the lecture. 
+
+### <a name="SM"></a> Systems Management
+
+This course is given as a collection of presentations by industry practitioners mostly. The actual content of the lecture is determined by hot topics in the industry. The presentations are embraced by two lectures at the beginnig and the end that position the individual presentations to the overall subject. 
+
+### <a name="Proj"></a> Hands-On Projects
+
+Hands-on projects are performed in teams and are oriented on actual research projects of the institute. Thus, state-of-the-art technology will be used to contribute to solutions of concrete research problems. Participant in such projects work at the forefront of technology. 
+
 
 

@@ -87,13 +87,18 @@ This course is given as a collection of presentations by industry practitioners 
 
 Hands-on projects are performed in teams and are oriented on actual research projects of the institute. Thus, state-of-the-art technology will be used to contribute to solutions of concrete research problems. Participant in such projects work at the forefront of technology. 
 
+
 ## <a name="Clusters"></a> Course Clusters
 
+The following sketches clusters of courses that fit together under a common theme and provide a coherent set of skills. 
 
-
+### <a name="IntCl"></a> Integration Cluster
 
 
 ![IAAS Courses](https://github.com/FrankLeymann/IAAS-Curriculum/blob/master/figures/Integration-Cluster.png) 
+
+
+### <a name="CloudCl"></a> Cloud Cluster
 
 
 
@@ -101,13 +106,21 @@ Hands-on projects are performed in teams and are oriented on actual research pro
 
 
 
+### <a name="BPMCl"></a> BPM Cluster
+
+
+
 ![IAAS Courses](https://github.com/FrankLeymann/IAAS-Curriculum/blob/master/figures/BPM-Cluster.png) 
 
+
+### <a name="SACl"></a> Systems Architect Cluster
 
 
 ![IAAS Courses](https://github.com/FrankLeymann/IAAS-Curriculum/blob/master/figures/System-Architect-Cluster.png) 
 
 
+
+### <a name="EACl"></a> Enterprise Architect Cluster
 
 
 

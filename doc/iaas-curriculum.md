@@ -58,4 +58,10 @@ The notion of *enterprise application* is introduced. Based on this the need for
 
 The Web is presented as a *platfrom for applications*, and related trends like the Semantic Web, Cloud Computing, or Autonomic Computing are overviewed. The notion of a *service* and *service computing* is introduced. Some Web-based user interface technologies are briefly sketched. *HTTP* is discussed in detail. Based on that, *REST* is introduced and a design method for REST-based interfaces is presented. An overview on e-*mail* related protocols is given. *SOAP*, *WSDL* and *Policy* are introduced extensively, service *discovery* is touched. *Axis* is briefly sketched. *Agreement protocols* and *coordination* are discussed in depth. Finally, the overall architecture of a *service bus* is portrayed, ongoing discussions like *microservices*, *big vs small Web Services* are commented on. 
 
+### <a name="BPM"></a> Business Process Managment
+
+An overview of the *evolution* of business process management technology begins the lecture. The *business process management lifecycle* is presented and *business process (re-)engineering* is discussed in depth. A quick introduction into *Petri nets* is given to understand the execution semantics of BPMN, and *BPMN* is discussed extensively. Next, basic concepts and architectural aspects of *workflow management systems* (WfMS) are introduced. A *graph-based metamodel* for process models is discussed and used to formally define key concepts like *control flow*, *data flow* and *dead-path elimination*. A discussion of *transactional workflows* follows. Finally, *BPEL* is presented in detail. 
+
+
+
 

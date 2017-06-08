@@ -1,6 +1,6 @@
 # IAAS Curriculum
 
-In the following, the charter of the Institute of Architecture of Application Systems ([IAAS](http://www.iaas.uni-stuttgart.de/institut/mitarbeiter/indexE.php)) and the courses provided by the institute are discussed. The list of individual courses is presented [list of individual courses](#Spectrum) is discussed, and [several clusters of courses](#Clusters) emphasizing different foci are recommended.
+In the following, the charter of the Institute of Architecture of Application Systems ([IAAS](http://www.iaas.uni-stuttgart.de/indexE.php)) and the courses provided by the institute are discussed. The list of individual courses is presented [list of individual courses](#Spectrum) is discussed, and [several clusters of courses](#Clusters) emphasizing different foci are recommended.
 
 These courses are motivated by the charter of IAAS that is sketched next.
 

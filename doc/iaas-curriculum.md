@@ -6,7 +6,7 @@ These courses are motivated by the charter of IAAS that is sketched next.
 
 ## Charter of IAAS
 
-The term *application system* is a piece of software supporting one or more core business activities of an enterprise. Typically, such a system 
+The term *application system* denotes a piece of software supporting one or more core business activities of an enterprise. Typically, such a system 
 
 * covers essential parts of the business activities of an enterprise,
 * processes large amounts of persistent data, 

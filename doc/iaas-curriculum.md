@@ -1,6 +1,6 @@
 # IAAS Curriculum
 
-In the following, the charter of the Institute of Architecture of Application Systems ([IAAS](http://www.iaas.uni-stuttgart.de/indexE.php)) and the courses provided by the institute are discussed. The list of individual courses is presented [list of individual courses](#Spectrum) is discussed, and [several clusters of courses](#Clusters) emphasizing different foci are recommended.
+In the following, the charter of [the Institute of Architecture of Application Systems (IAAS)](http://www.iaas.uni-stuttgart.de/indexE.php) and [the courses](#Spectrum) offered by the institute are discussed. [Several clusters of courses](#Clusters) emphasizing different foci are recommended.
 
 These courses are motivated by the charter of IAAS that is sketched next.
 
@@ -21,17 +21,17 @@ In order to enable proper support of the various business activities of enterpri
 
 To support data exchange between application systems, IAAS is focussing on *messaging systems* (message queuing, publish/subscribe) and *service technologies*. *Service-oriented computing* (SoC) and *Service-oriented Architecture* (SOA) are studied in general, specific service technologies like *Web Services* and *REST*-based systems are investigated in particular. 
 
-To support the operational requirements of application systems like automatic provisioning and deployment as well as automatic management, the use of *Cloud Computing* as well as proper Cloud middleware and Cloud technologies is investigated. *Application topologies* and corresponding modeling languages are of particular interest. 
+To support the operational requirements of application systems like automatic provisioning and deployment as well as automatic management, the use of *Cloud Computing* as well as proper cloud middleware and cloud technologies is investigated. *Application topologies* and corresponding modeling languages are of particular interest. 
 
-More and more, services are not only realized by software or human beings, but by also by sensors and actuators. Thus, IAAS is also concerned with the *Internet of Things* (IoT). 
+More and more, services are not only realized by software or human beings, but also sensors and actuators have to be involved. Thus, IAAS is also concerned with the *Internet of Things* (IoT) and *cyber-physical systems* (CPS). 
 
-*Transaction models* are discussed to ensure the robustness of application systems. In addition, the IAAS studies *optimization*-potentials of application systems in general, and of business processes in particular.
+*Transaction models* are discussed to ensure the robustness of application systems. In addition, IAAS studies *optimization*-potentials of application systems in general, and of business processes in particular.
 
-To support the transfer of research results into practice, IAAS has a special focus on patterns and *pattern languages*. Several pattern languages have been proposed by IAAS. Furthermore, pattern languages themselves are a research focus of IAAS.
+To support the transfer of research results into practice, IAAS has a special focus on patterns and *pattern languages*. Several pattern languages have been proposed by IAAS. Furthermore, pattern languages themselves are a research focus on its own.
 
 Finally, several application domains are of high interest at IAAS like *simulation technology*, *eScience*, *Digital Humanities*, and *manufacturing systems*.
 
-This whole spectrum of topics is reflected in both, the research projects as well as the various courses of IAAS. 
+This whole spectrum of topics is reflected in both, the research projects as well as the various courses offered by IAAS. 
 
 
 ## <a name="Spectrum"></a> The Course Spectrum
@@ -118,7 +118,7 @@ This cluster provides *distributed application architecture skills*; it consists
 
 After attending these lectures, the major concepts and technologies behind large-scale distributed applications like non-functional properties, loose-coupling, architectural styles, relevant patterns as well as cloud architectural concerns and cloud platforms a are understood. 
 
-This cluster may be extended by attending the [practical course](#pract) on Cloud, which will add practical experiences to the acquired skill set. 
+This cluster may be extended by attending the [practical course](#pract) on cloud, which will add practical experiences to the acquired skill set. 
 
 ![IAAS Courses](https://github.com/FrankLeymann/IAAS-Curriculum/blob/master/figures/Cloud-Cluster.png) 
 

@@ -15,7 +15,7 @@ The term *application system* denotes a piece of software supporting one or more
 
 An application system directly supports the business activities of an enterprise. Thus, it must satisfy strong requirements in terms of *non-functional properties* like availability, scalability, resiliency, and performance.
 
-IAAS is concerned with the *architecture* of such enterprise systems, i.e. their underlying structure: What kind of building blocks and connections between them are needed to build such a system and guarantee its non-functional properties? In this context, IAAS is focussed on *middleware*, i.e. what kind of middleware is needed in the componentry of an architure of an application system, and how is such middleware used properly. Another concern are proper paradigms to *model* and specify application systems as well as their *compliance* with non-functional properties. 
+IAAS is concerned with the *architecture* of such enterprise systems, i.e. their underlying structure: What kind of building blocks and connections between them are needed to build such a system and guarantee its non-functional properties? In this context, IAAS is focussed on *middleware*, i.e. what kind of middleware is needed in the componentry of an architecture of an application system, and how is such middleware used properly. Another concern are proper paradigms to *model* and specify application systems as well as their *compliance* with non-functional properties. 
 
 In order to enable proper support of the various business activities of enterprises, IAAS investigates the role of *business processes* in application systems. Both, proper modelling of business processes as well as middleware needed to support them (so-called *workflow systems* or *process management systems*) is discussed. Business processes are considered as *programs in the large*, and the composition of applications via business processes is investigated in terms of functionality as well as non-functional properties.
 
@@ -58,7 +58,7 @@ The notion of *enterprise application* is introduced. Based on this the need for
  
 ### <a name="SoC"></a> Service Computing
 
-The Web is presented as a *platfrom for applications*, and an overview on related trends like the Semantic Web, Cloud Computing, or Autonomic Computing is given. The notion of a *service* and *service computing* is introduced. Some Web-based user interface technologies are briefly sketched. *HTTP* is discussed in detail. Based on that, *REST* is introduced and a design method for REST-based interfaces is presented. An overview on e-*mail* related protocols is given. *SOAP*, *WSDL* and *Policy* are introduced extensively, service *discovery* is touched. *Axis* is briefly sketched. *Agreement protocols* and *coordination* are discussed in depth. Finally, the overall architecture of a *service bus* is portrayed, ongoing discussions like *microservices*, *big vs small Web Services* are commented on. 
+The Web is presented as a *platform for applications*, and an overview on related trends like the Semantic Web, Cloud Computing, or Autonomic Computing is given. The notion of a *service* and *service computing* is introduced. Some Web-based user interface technologies are briefly sketched. *HTTP* is discussed in detail. Based on that, *REST* is introduced and a design method for REST-based interfaces is presented. An overview on e-*mail* related protocols is given. *SOAP*, *WSDL* and *Policy* are introduced extensively, service *discovery* is touched. *Axis* is briefly sketched. *Agreement protocols* and *coordination* are discussed in depth. Finally, the overall architecture of a *service bus* is portrayed, ongoing discussions like *microservices*, *big vs small Web Services* are commented on. 
 
 ### <a name="BPM"></a> Business Process Management
 
@@ -66,7 +66,7 @@ An overview on the *evolution* of business process management technology begins 
 
 ### <a name="aBPM"></a> Advanced Business Process Management
 
-The concept of *subprocesses* and corresponding *coordination* technology is introduced. *Human Tasks* and *human oriented processes* as well as corresponding middleware is discussed in detail. Advanced modeling paradigms like *pi-calculus* as well as *workflow patterns* are presented. Requirements and problems of *adaptive workflows* are discussed, and an overview on *case handling* including *CMMN* is given. The role of business process technology in *outsourcing* and especially *choreographies* are introducewd. *Process compliance* is covered, and the role of *process mining* including its algorithmic aspects is revealed. 
+The concept of *subprocesses* and corresponding *coordination* technology is introduced. *Human Tasks* and *human oriented processes* as well as corresponding middleware is discussed in detail. Advanced modeling paradigms like *pi-calculus* as well as *workflow patterns* are presented. Requirements and problems of *adaptive workflows* are discussed, and an overview on *case handling* including *CMMN* is given. The role of business process technology in *outsourcing* and especially *choreographies* are introduced. *Process compliance* is covered, and the role of *process mining* including its algorithmic aspects is revealed. 
 
 ### <a name="Cloud"></a> Cloud Computing 
 
@@ -131,7 +131,7 @@ This cluster provides *business process skills*; it consists of the following le
 * [Business Process Management (BPM)](#BPM)
 * [Advanced Business Process Management](#aBPM)
 
-After attending these lectures, the major concepts and technologies relevent to manage business processes along their complete lifecycle are understood. This includes services as well as service composition, proper process modeling - including exception handling, subprocesses, choreographies -, process analysis, human tasks, workflow management systems, and process formalisms. 
+After attending these lectures, the major concepts and technologies relevant to manage business processes along their complete lifecycle are understood. This includes services as well as service composition, proper process modeling - including exception handling, subprocesses, choreographies -, process analysis, human tasks, workflow management systems, and process formalisms. 
 
 This cluster may be extended by attending the [practical course](#pract) on SOA, REST, and BPM, which will add practical experiences to the acquired skill set. 
 
